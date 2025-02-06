@@ -24,7 +24,7 @@
 _py="python"
 _pkg="windows-xp"
 _variant="starter-editior"
-_pkgbase="${_pkg}-${variant}"
+_pkgbase="${_pkg}-${_variant}"
 _pkgname="${_pkgbase}"
 pkgname=(
   "${_pkgname}-libvirt"
