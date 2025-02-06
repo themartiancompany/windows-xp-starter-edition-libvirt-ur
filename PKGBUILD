@@ -23,7 +23,7 @@
 # shellcheck disable=SC2034
 _py="python"
 _pkg="windows-xp"
-_variant="starter-editior"
+_variant="starter-edition"
 _pkgbase="${_pkg}-${_variant}"
 _pkgname="${_pkgbase}"
 pkgname=(
